@@ -1,2 +1,2 @@
-# microteaching
+# Microteaching
 Github microteaching activity
