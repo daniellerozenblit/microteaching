@@ -12,6 +12,6 @@ We will be interacting with GitHub via the Git CLI (Command Line Interface). Thi
 - [ ] [Set your commit email](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-email-preferences/setting-your-commit-email-address) in Git and GitHub
 
 ## Authenticating GitHub from Git
-In order to make changes to a GitHub repository from your local CLI, you will need to have your GitHub user name and a personal access token on hand during the microteaching activity.
-- [ ] Record your GitHub username (this is the username you used when signing up with GitHub).
-- [ ] [Create](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) and record a personal access token
+In order to make changes to a GitHub repository from your local CLI, you will need to have your GitHub user name and a personal access token. This information will be important to have on hand during the microteaching activity.
+- [ ] Save your GitHub username (this is the username you used when signing up with GitHub).
+- [ ] [Create](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) and save a personal access token
