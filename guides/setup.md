@@ -14,4 +14,4 @@ We will be interacting with GitHub via the Git CLI (Command Line Interface). Thi
 ## Authenticating GitHub from Git
 In order to make changes to a GitHub repository from your local CLI, you will need to have your GitHub user name and a personal access token on hand during the microteaching activity.
 - [ ] Record your GitHub username (this is the username you used when signing up with GitHub).
-- [ ] Create and record a personal access token: https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token
+- [ ] [Create](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/creating-a-personal-access-token) and record a personal access token
