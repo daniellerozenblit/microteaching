@@ -7,6 +7,8 @@ In order to use GitHub for the active learning portion of this activity (and for
 ## Installing Git
 We will be interacting with GitHub via the Git CLI (Command Line Interface). This means that you must have Git installed on your personal machine.
 
-- [ ] Download and install the latest version of Git here: https://git-scm.com/downloads
+- [ ] Download and install the latest version of Git: https://git-scm.com/downloads
+- [ ] Set your user name in Git: https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git
+- [ ] Set your commit email in Git and GitHub: https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-email-preferences/setting-your-commit-email-address
 
-## Creating a GitHub SignIn Token
+## Authenticating GitHub from Git
