@@ -12,3 +12,5 @@ We will be interacting with GitHub via the Git CLI (Command Line Interface). Thi
 - [ ] Set your commit email in Git and GitHub: https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-email-preferences/setting-your-commit-email-address
 
 ## Authenticating GitHub from Git
+In order to make changes to a GitHub repository from your local CLI, you will need to have your GitHub user name and a personal access token on hand.
+- [ ]
