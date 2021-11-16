@@ -8,8 +8,8 @@ In order to use GitHub for the active learning portion of this activity (and for
 We will be interacting with GitHub via the Git CLI (Command Line Interface). This means that you must have Git installed on your personal machine.
 
 - [ ] [Download and install](https://git-scm.com/downloads) the latest version of Git
-- [ ] Set your user name in Git: https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git
-- [ ] Set your commit email in Git and GitHub: https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-email-preferences/setting-your-commit-email-address
+- [ ] [Set your username](https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git) in Git: 
+- [ ] [Set your commit email](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-user-account/managing-email-preferences/setting-your-commit-email-address) in Git and GitHub
 
 ## Authenticating GitHub from Git
 In order to make changes to a GitHub repository from your local CLI, you will need to have your GitHub user name and a personal access token on hand during the microteaching activity.
