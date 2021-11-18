@@ -34,7 +34,7 @@ Tells you the current branch you are on. To use it, type: `git branch`
 
 Lets you move from one branch to another. To use it, type: `git checkout <branch_name_you_are_switching_to>`
 
-##### git branch -b
+##### git checkout -b
 
 Lets you create a new branch. Make sure you are doing this from the main branch so you aren't accidentally creating a sub-branch! To use it, type: `git branch -b <new_branch_name>`
 
